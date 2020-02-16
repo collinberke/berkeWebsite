@@ -1,0 +1,12 @@
+---
+title: Hello World
+author: Collin K. Berke, Ph.D.
+date: '2020-02-15'
+slug: hello-world
+categories: []
+tags: []
+---
+
+# Intro
+
+This is my first blog post. I wanted to see how this all works.

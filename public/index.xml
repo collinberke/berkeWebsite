@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collin K. Berke, Ph.D.</title>
+    <link>/</link>
+    <description>Recent content on Collin K. Berke, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/2020/02/15/hello-world/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/15/hello-world/</guid>
+      <description> Intro This is my first blog post. I wanted to see how this all works.
+ </description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>/2020/02/15/test-post/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/15/test-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Collin K. Berke, Ph.D. is a media research analyst in public media. Professionally, he uses data and media/marketing research methods to answer questions on how to best reach and engage audiences–towards the goal of enriching lives and engaging minds with public media content and services. He is interested in the use and development of open-source statistical software (i.e. Rstats) to achieve this goal and understand the role it can play in media, digital, and marketing analytics.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>/home/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
