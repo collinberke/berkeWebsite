@@ -6,28 +6,18 @@
     <description>Recent content on Collin K. Berke, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog Introduction</title>
-      <link>/2020/02/15/blog-introduction/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Hello world! - The start of something new</title>
+      <link>/2020/02/16/hello-world-the-start-of-something-new/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/02/15/blog-introduction/</guid>
-      <description>data ## # A tibble: 335 x 18 ## Season Institution Conference S Kills Errors `Total Attacks` `Hit Pct` ## &amp;lt;chr&amp;gt; &amp;lt;chr&amp;gt; &amp;lt;chr&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; ## 1 2019-… Alabama St. SWAC 142 1708 777 4591 0.203 ## 2 2019-… Houston AAC 141 1677 745 5231 0.178 ## 3 2019-… Utah Pac-12 137 1909 711 4684 0.256 ## 4 2019-… Prairie Vi… SWAC 136 1655 702 4961 0.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>/2020/02/15/hello-world/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/02/15/hello-world/</guid>
-      <description> Intro This is my first blog post. I wanted to see how this all works.
- </description>
+      <guid>/2020/02/16/hello-world-the-start-of-something-new/</guid>
+      <description>Hello World! It’s time for me to start something new I have decided to start writing a blog. I have never attempted anything like this before, but I felt it was time to start organizing some of my projects and thoughts into one central location. For some time, I have really wanted a space where I could discuss things that I find interesting, both professionally and personally, and a place where I could further refine my thoughts.</description>
     </item>
     
     <item>
@@ -36,7 +26,7 @@
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Collin K. Berke, Ph.D. is a media research analyst in public media. Professionally, he uses data and media/marketing research methods to answer questions on how to best reach and engage audiences–towards the goal of enriching lives and engaging minds with public media content and services. He is interested in the use and development of open-source statistical software (i.e. Rstats) to achieve this goal and understand the role it can play in media, digital, and marketing analytics.</description>
+      <description>Collin K. Berke, Ph.D. is a media research analyst in public media. Professionally, he uses data and media/marketing research methods to answer questions on how to best reach and engage audiences–towards the goal of enriching lives and engaging minds with public media content and services. He is interested in the use and development of open-source statistical software (i.e. Rstats) to achieve this goal, and developing a broader understanding the role it can play in media, digital, and marketing analytics.</description>
     </item>
     
     <item>
