@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Blog Introduction</title>
+      <link>/2020/02/15/blog-introduction/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/15/blog-introduction/</guid>
+      <description>data ## # A tibble: 335 x 18 ## Season Institution Conference S Kills Errors `Total Attacks` `Hit Pct` ## &amp;lt;chr&amp;gt; &amp;lt;chr&amp;gt; &amp;lt;chr&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; &amp;lt;dbl&amp;gt; ## 1 2019-… Alabama St. SWAC 142 1708 777 4591 0.203 ## 2 2019-… Houston AAC 141 1677 745 5231 0.178 ## 3 2019-… Utah Pac-12 137 1909 711 4684 0.256 ## 4 2019-… Prairie Vi… SWAC 136 1655 702 4961 0.</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>/2020/02/15/hello-world/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
@@ -19,15 +28,6 @@
       <guid>/2020/02/15/hello-world/</guid>
       <description> Intro This is my first blog post. I wanted to see how this all works.
  </description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>/2020/02/15/test-post/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/02/15/test-post/</guid>
-      <description></description>
     </item>
     
     <item>
