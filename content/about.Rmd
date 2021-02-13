@@ -2,16 +2,48 @@
 date: 2019-02-15
 title: "About"
 ---
-<p align="center">
+
+<style>
+.content {
+  max-width: 1000px;
+  margin: 40px auto 10px;
+  padding: 0 15px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #333;
+}
+
+.article-content hr {
+  width: 600px;
+  margin: 50px auto;
+  height: 1px;
+  overflow: hidden;
+  border: none;
+  background: #e5e5e5;
+}
+
+</style>
+
+<div class="column-left">
+
 ![](/./about_files/profile.jpeg)
-</p>
+  
+</div>
+
+<div class="column-right">
 
 Collin K. Berke, Ph.D. is a media research analyst in public media. Professionally, he uses data and media/marketing research methods to answer questions on how to best reach and engage audiences--towards the goal of enriching lives and engaging minds with public media content and services. He is interested in the use and development of open-source statistical software (i.e. [`Rstats`](https://www.r-project.org/){target="_blank"}) to achieve this goal, and developing a broader understanding the role it can play in media, digital, and marketing analytics. 
+
+He has gained experience using different software, third-party services, and programming languages while working on several projects, both in industry and academia. In regards to programming languages, he has worked on projects using `R`, `SQL`, and `$bash`. He has extensive experience using different analytics solutions like Google Analytics, Google Sheets, and Excel. He also has familiarity working with Postgres and Google BigQuery for data warehouseing. Most of his current work is industry related. 
 
 Collin also serves as an adjunct instructor for the [University of Nebraska-Lincoln](https://www.unl.edu/){target="_blank"} and [Southeast Community College](https://www.southeast.edu/){target="_blank"}, where he teaches courses in sports data visualization and analysis and communication specific courses. He holds a M.A. in Communication Studies from the [The University of South Dakota](https://www.usd.edu/){target="_blank"} and a Ph.D. in Media and Communication from [Texas Tech University](http://www.ttu.edu/){target="_blank"}. He has also published and contributed to the publication of several academic journal articles. 
 
 Collin is a self-proclaimed news, sports, and podcast junkie. He really enjoys listening to [NPR](https://www.npr.org/){target="_blank} and watching college football and baseball. At times, he will write blog posts on topics he finds interesting in these areas.  
 
+---
+
 # Note about this site
 
-The views expressed on this site are my own, and they do not reflect the views of my employer, professional and/or community groups I hold membership. Any analyses hosted on this site were done for professional developement or were for fun. Unless otherwise noted, none of the content on this site has been peer-reviewed, and thus any conclusions drawn or uses stemming from it need to take this limitation into account. 
+The views expressed on this site are my own, and they do not reflect the views of my employer, professional and/or community groups I hold membership. Any analyses hosted on this site were done for professional developement or were done for fun. Unless otherwise noted, none of the content on this site has been peer-reviewed, and thus any conclusions drawn or uses stemming from this work need to take these limitations into account. 
+
+</div>dim

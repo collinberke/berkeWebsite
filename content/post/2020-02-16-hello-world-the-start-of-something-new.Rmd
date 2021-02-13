@@ -1,38 +1,36 @@
 ---
-title: Hello world! - The start of something new
-author: Collin K. Berke, Ph.D.
+title: "Hello world! - The start of something new"
+author: "Collin K. Berke, Ph.D."
 date: '2020-02-16'
+draft: yes
 slug: hello-world-the-start-of-something-new
-categories:
-  - personsal
-tags:
-  - introduction
-draft: true  
+tags: introduction
+categories: personsal
 ---
 
 # Hello World! It's time for me to start something new
 
-I have decided to start writing a blog. I have never attempted anything like this before, but I felt it was time to start organizing some of my projects and thoughts into one central location. For some time, I have really wanted a space where I could discuss things that I find interesting, both professionally and personally, and a place where I could further refine my thoughts. So, `Hello World!` my name is Collin, and this is my blog. 
+I have decided to start writing a blog. I have never attempted anything like this before, but I felt it was time to start organizing some of my projects and thoughts into one central location. For some time, I really wanted to develop a space where I could discuss things that I find interesting, both professionally and personally. So, `Hello World!`, my name is Collin, and this is my blog. 
 
 I'm also on other platforms, however, I really don't engage on them too often. Nevertheless, you can find more information about me and my projects in the following locations:
 
-* GitHub, a great place to see the projects I am working on. Most are professional at this time.
-* Twitter, haven't posted anything in a while, though I like and retweet stuff often. 
-* Email, the best channel to get a hold of me. 
+* GitHub is a great place to see the projects I am working on. Most are professional at this time.
+* Twitter, I haven't posted anything in a while, though I retweet and like stuff often. 
+* Email, the best channel to get a hold of me--collin.berke@gmail.com. 
 
 # The purpose of this blog
 
-The purpose of this blog is to serve as a location for me to express my thoughts on topics I find interesting. To be honest, I don't expect this to be a really niche blog with one focused, clear purpose. Most likely it will be data analysis and/or visualization focused, which I will apply to develop posts on areas I find interesting: open-source software, media/marketing analytics, data analysis, sports, media, etc. My purpose may become more refined once I begin to find my voice. 
+The purpose of this blog is to serve as a location for me to express my thoughts on topics I find interesting. To be honest, I don't expect this to be a really niche blog with one focused, clear purpose. Most likely it will be data analysis and/or visualization focused, which I will apply to develop posts in areas I find interesting: open-source software, media/marketing analytics, data analysis, sports, media, etc. My purpose may become more refined once I begin to find my voice. 
 
 # The inspiration and motivation to do this blog
 
-I have spent countless hours reading, re-reading, bookmarking, and Googling multiple topics regarding the use of the statistical computing programming language called [`R`](){}. Much of this time has been spent accessing useful, open-source, and free content that has aided me professionally, and it has contributed to my deeper understanding of topics I find interesting. I couldn't even begin to describe how greatful I am for those who have spent time organizing and drafting content others find useful. In fact, it's the [`#Rstats`](){} community that has motivated me to put this blog together, as I have seen how helpful and open it is to aiding in the development of others.
+I have spent countless hours reading, re-reading, bookmarking, and Googling multiple topics regarding the use of the statistical computing programming language called [`R`](https://www.r-project.org/){}. Much of this time has been spent accessing useful, open-source, and free content that has aided me professionally, and it has contributed to my deeper understanding of the topics I find interesting. I couldn't even begin to describe how greatful I am for those who have spent time organizing and drafting content others find useful. In fact, it's the [`#Rstats`](https://twitter.com/search?q=%23Rstats&src=typed_query){} community that has motivated me to put this blog together, as I have seen how helpful and open it is to aiding in the development of others.
 
-I now feel I am in a place of not only being being a consumer but a producer of this information. I will never be an expert in this area, as there is too much to learn for just one person. As one of my favorite podcasts (i.e., [_Make Me Smart With Kai and Molly_](){}) states in every episode, "None of us is as smart as all of us." Thus, I feel it is time to start organizing and drafting content other's can find useful in whatever problem they are tackling. Even if this blog helps one person, that will be enough motivation to keep me working on this blog.  
+I now feel I am in a place of not only being a consumer but a producer of this information. I will never be an expert in this area, as there is too much to learn for just one person. As one of my favorite podcasts (i.e., [_Make Me Smart With Kai and Molly_](https://www.marketplace.org/shows/make-me-smart-with-kai-and-molly/){}) states in every episode, "None of us is as smart as all of us." Thus, I feel it is time to start organizing and drafting content other's can find useful in whatever problem they are tackling. Even if this blog helps one person, that will be enough motivation to keep me working on it.  
 
 # What's up next?
 
-Lately, I have been watching a lot of college baseball. I never really played the sport. However, I fell into watching and enjoying it when getting my Ph.D. at Texas Tech University. Ever since, I have been hooked. To get a better understanding of the sport, I'm gonna draft a post about something I find interesting in the area of college baseball. Stay tuned.
+Lately, I have been spending time learning the process of `R` package development. So I may spend some time overviewing that topic. I have also been thinking about doing a series about Google Analytics and Google BigQuery, since I'm currently learning how to use it in my workflow.   
 
 # References & Acknowledgements
 
